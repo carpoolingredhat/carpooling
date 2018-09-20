@@ -1,0 +1,13 @@
+{
+  "name": "carpoolingredhatteam",
+  "description": "A beautiful Design System for Bootstrap 4. It's Free and Open Source.",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Car Pooling",
+      "email": "carpoolingredhat@gmail.com"
+    }
+  ],
+  "require": {}
+}
